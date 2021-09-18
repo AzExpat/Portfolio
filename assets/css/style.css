@@ -658,7 +658,7 @@ body {
 }
 .pagination li:first-child a.page-link,
 .pagination li:last-child a.page-link{
-    color: #33333;
+    color: #333333;
     font-size: 25px;
     line-height: 20px;
     width: 28px;
@@ -676,4 +676,11 @@ body {
         vertical-align: top;
         margin: 0 0 10px;
     }
+}
+.funny {
+  max-width:100%;
+  width:450px;
+}
+.gif {
+  width: 100%;
 }
