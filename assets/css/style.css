@@ -545,6 +545,7 @@ h1, h2 {
 @media screen and (max-width: 600px){
   .logo {
     width: 25vw;
+    padding-left: 2px;
   }
 }
 
