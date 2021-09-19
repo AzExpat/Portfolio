@@ -544,6 +544,11 @@ h1, h2 {
       height: 25vh;
   }
 }
+@media screen and (max-width: 600px){
+  .logo {
+    width: 25vw;
+  }
+}
 
 /*--------------------------------------------------------------
 # Footer
