@@ -433,9 +433,7 @@ h1, h2 {
 .intro h3 {
   color: #3a3a3c;
 }
-.intro p {
-  color: #6b7588;
-}
+
 .left {
   display: flex;
   align-items:flex-end;
