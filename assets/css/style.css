@@ -160,11 +160,11 @@ h1, h2 {
 
 .readmore {
   display: inline-block;
-  border: 1px solid #D93840;
+  border: 1px solid #bc242c;
   padding: 10px 15px;
   font-size: 12px;
   text-transform: uppercase;
-  color: #D93840;
+  color: #bc242c;
   transition: .2s all ease;
   font-weight: 700;
 }
@@ -176,7 +176,7 @@ h1, h2 {
 .readmore:hover {
   color: #fff;
   text-decoration: none;
-  background: #D93840;
+  background: #bc242c;
 }
 
 .sticky-content {
@@ -230,7 +230,7 @@ h1, h2 {
 .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #D93840;
+  background: #bc242c;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -425,7 +425,7 @@ h1, h2 {
 }
 
 .intro h6 {
-  color: #A62B31;
+  color: #bc242c;
   font-weight: 800;
   font-size: 1rem;
   letter-spacing: 2.2px;
@@ -557,7 +557,7 @@ h1, h2 {
 }
 
 .footer a {
-  color: #A33322;
+  color: #bc242c;
 }
 
 .social a {
@@ -580,7 +580,7 @@ h1, h2 {
 }
 
 .social a:hover {
-  color: #A33322;
+  color:#bc242c;
 }
 
 .copy {
@@ -656,7 +656,7 @@ body {
 .pagination li a.page-link:focus,
 .pagination li.active a.page-link:hover,
 .pagination li.active a.page-link{
-    color: #A33322;
+    color:  #bc242c;
     background: transparent;
     text-shadow: 4px 4px rgba(0,0,0,0.2);
 }
@@ -688,3 +688,58 @@ body {
 .gif {
   width: 100%;
 }
+
+.resume-main h5{
+  color: #bc242c;
+  font-weight: bold;
+}
+.resume-title h1 {
+  color:  #bc242c;
+}
+.resume-link, .fas {
+  color: #000;
+}
+.resume h6 {
+  font-weight: bold;
+}
+.icon {
+  color: #bc242c;
+}
+
+.resume-aside {
+  border-left: 1px solid rgba(0,0,0,0.08);
+  .item {
+    font-size: 0.875rem;
+  }
+  .item-title {
+    font-size: 1rem;
+  }
+}
+
+  
+  .solid:hover {
+    color:  #bc242c;
+    text-decoration: none;
+    background: #fff;
+  }
+  .solid {
+    display: inline-block;
+    border: 1px solid #bc242c;
+    padding: 10px 15px;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #bc242c;
+    transition: .2s all ease;
+    font-weight: 700;
+  }
+  
+  .solid:active, .solid:focus, .solid:hover {
+    outline: none;
+  }
+  
+  .solid:hover {
+    color: #bc242c;
+    text-decoration: none;
+    background: lightgrey;
+  }
