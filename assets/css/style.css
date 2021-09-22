@@ -688,6 +688,11 @@ body {
 .gif {
   width: 100%;
 }
+@media only screen and (max-width: 480px){
+  .fatface {
+  width: 200px;
+  }
+}
 
 .resume-main h5{
   color: #bc242c;
