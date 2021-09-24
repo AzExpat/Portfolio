@@ -516,6 +516,7 @@ h1, h2 {
 .rsddk {
   background-color: #641d64;
 }
+
 .right {
   text-align: right;
 }
@@ -703,6 +704,7 @@ body {
 }
 .resume-link, .fas {
   color: #000;
+  text-decoration: none;
 }
 .resume h6 {
   font-weight: bold;
